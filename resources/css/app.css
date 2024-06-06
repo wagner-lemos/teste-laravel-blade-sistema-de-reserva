@@ -1,0 +1,9 @@
+
+.custom-hr {
+    border: 0 !important;
+    height: 4px;
+	background: #00cfc0;
+	margin: 0 !important;
+    color: inherit;
+    opacity: 1 !important;
+}
